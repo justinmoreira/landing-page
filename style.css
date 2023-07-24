@@ -139,3 +139,11 @@ button{
     border: 1px solid white;
     border-radius: 4px;
 }
+.footer{
+    background-color: #1F2937;
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+}

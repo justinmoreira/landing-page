@@ -117,3 +117,25 @@ button{
     display:flex;
     justify-content: end;
 }
+.five{
+    background-color: #3882F6;
+    margin: 48px 128px;
+    padding: 36px 72px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+}
+.left5{
+    display: flex;
+    flex-direction: column;
+    gap:10px;
+}
+.header5{
+    font-weight: bolder;
+}
+.button5{
+    border: 1px solid white;
+    border-radius: 4px;
+}
